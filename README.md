@@ -7,4 +7,4 @@ These are my TechStart projects
 
 Project Description
 
-I call this photo TechStart Training #1 because it is the best.
+I call this photo TechStart Training #1 because it is the bes
